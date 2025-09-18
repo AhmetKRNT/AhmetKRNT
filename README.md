@@ -1,13 +1,13 @@
 # 👋 Merhaba, Ben Ahmet / # 👋 Hello, I'm Ahmet
 
-🎉 23 yaşındayım | 💼 Devlet Memuru  
-🎉 I'm 23 years old | 💼 Civil Servant
-📚 Eğitim: İlahiyat & Tıbbi Dokümantasyon ve Sekreterlik  
-📚 Education: Theology & Medical Documentation and Secretarial
-💡 Hayalim: **Web Tasarımcısı** & **Tekniker**  
-💡 My Dream: **Web Designer** & **Technician**
-🚀 Kendimi sürekli geliştirmeye çalışıyorum  
-🚀 I'm constantly trying to improve myself
+🎉 23 yaşındayım | 💼 Devlet Memuru   
+🎉 I'm 23 years old | 💼 Civil Servant 
+📚 Eğitim: İlahiyat & Tıbbi Dokümantasyon ve Sekreterlik    
+📚 Education: Theology & Medical Documentation and Secretarial  
+💡 Hayalim: **Web Tasarımcısı** & **Tekniker**   
+💡 My Dream: **Web Designer** & **Technician** 
+🚀 Kendimi sürekli geliştirmeye çalışıyorum   
+🚀 I'm constantly trying to improve myself 
 
 ---
 
