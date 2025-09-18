@@ -41,7 +41,7 @@
 
 ---
 
-## 📫 Bana Ulaşın Contact Me
+## 📫 Bana Ulaşın / Contact Me
 - ✉️ [E-posta](mailto:)  
 - 💼 [LinkedIn](https://linkedin.com/in/) 
 
