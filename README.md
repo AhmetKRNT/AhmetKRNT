@@ -30,8 +30,10 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AhmetKRNT&color=blue" alt="visitor count"/>
   <img src="https://img.shields.io/badge/Çalışıyor%20%F0%9F%9A%80-Web%20Tasarımı-blue"/>
-<img src="https://img.shields.io/badge/Ogreniyor-%F0%9F%92%BB-Python-orange"/>
   <img src="https://img.shields.io/badge/Hedeflerim-✨%20Tekniker-red"/>
+
+<img src="https://img.shields.io/badge/Learning-Python-orange"/>
+<img src="https://img.shields.io/badge/Working-Web_Design-blue"/>
 </p>
 
 ---
