@@ -2,8 +2,8 @@
 
 - 🎉 23 yaşındayım | 💼 Devlet Memuru  
 - 🎉 I'm 23 years old | 💼 Civil Servant 
-- 📚 Eğitim: İlahiyat & Tıbbi Dokümantasyon ve Sekreterlik    
-- 📚 Education: Theology & Medical Documentation and Secretarial  
+- 📚 Eğitim: Egzersiz ve Spor Bilimleri & Tıbbi Dokümantasyon ve Sekreterlik    
+- 📚 Education: Exercise and Sports Sciences & Medical Documentation and Secretarial  
 - 💡 Hayalim: **Web Tasarımcısı** & **Tekniker**   
 - 💡 My Dream: **Web Designer** & **Technician** 
 - 🚀 Kendimi sürekli geliştirmeye çalışıyorum   
