@@ -43,7 +43,7 @@
 
 ## 📫 Bana Ulaşın / Contact Me
 - ✉️ [E-posta](mailto:)  
-- 💼 [LinkedIn](https://linkedin.com/in/) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmetxkurt/) 
 
 ---
 
