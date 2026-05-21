@@ -1,9 +1,9 @@
 # 👋 Merhaba, Ben Ahmet / # 👋 Hello, I'm Ahmet
 
-- 🎉 23 yaşındayım | 💼 Devlet Memuru  
-- 🎉 I'm 23 years old | 💼 Civil Servant 
-- 📚 Eğitim: Egzersiz ve Spor Bilimleri & Tıbbi Dokümantasyon ve Sekreterlik    
-- 📚 Education: Exercise and Sports Sciences & Medical Documentation and Secretarial  
+- 🎉 24 yaşındayım | 💼 Devlet Memuru  
+- 🎉 I'm 24 years old | 💼 Civil Servant 
+- 📚 Eğitim: Egzersiz ve Spor Bilimleri & Tıbbi Dokümantasyon    
+- 📚 Education: Exercise and Sports Sciences & Medical Documentation  
 - 💡 Hayalim: **Web Tasarımcısı** & **Tekniker**   
 - 💡 My Dream: **Web Designer** & **Technician** 
 - 🚀 Kendimi sürekli geliştirmeye çalışıyorum   
