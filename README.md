@@ -4,8 +4,8 @@
 - 🎉 I'm 24 years old | 💼 Civil Servant 
 - 📚 Eğitim: Egzersiz ve Spor Bilimleri & Tıbbi Dokümantasyon    
 - 📚 Education: Exercise and Sports Sciences & Medical Documentation  
-- 💡 Hayalim: **Web Tasarımcısı** & **Tekniker**   
-- 💡 My Dream: **Web Designer** & **Technician** 
+- 💡 Hayalim: **Web Tasarımcısı**   
+- 💡 My Dream: **Web Designer**
 - 🚀 Kendimi sürekli geliştirmeye çalışıyorum   
 - 🚀 I'm constantly trying to improve myself 
 
@@ -34,7 +34,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AhmetKRNT&color=blue" alt="visitor count"/>
   <img src="https://img.shields.io/badge/Çalışıyor%20%F0%9F%9A%80-Web%20Tasarımı-blue"/>
-  <img src="https://img.shields.io/badge/Hedeflerim-✨%20Tekniker-red"/>
 <img src="https://img.shields.io/badge/I%20want-%E2%9C%A8%20Medical%20Technician-red"/>
 <img src="https://img.shields.io/badge/Working-Web_Design-blue"/>
 </p>
